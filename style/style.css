@@ -2,8 +2,10 @@
 
 /* reset */
 @import "reset.css";
+
+/* cores */
 @import "cores.css";
 
-/* Globais */
+/* home */
 
-@import "globais.css";
+@import "home.css";
