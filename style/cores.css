@@ -1,9 +1,14 @@
 /* ---- cores ----- */
 
 :root {
- --preto: #222;
- --azul: #122ab2;
- --azul-claro:#2c70ff;
- --branco: #fff;
- --ciza-claro: #7c7c7c;
+    --preto: #222;
+    --azul: #122ab2;
+    --azul-claro: #2c70ff;
+    --blue: #66d9eb;
+    --purple: #ae81ff;
+    --pink: #f9265e;
+    --branco: #fff;
+    --cinza: #7c7c7c;
+    --cinza-claro: #a4a4a4;
+    --cinza-muito-claro: #f7f7f7;
 }
